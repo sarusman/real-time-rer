@@ -2,7 +2,7 @@
 Exploitation de la nouvelle API de France Mobilités. Affiche les prochains horaires de passage du RER B à l'arrêt Drancy. Réalisation personnelle.
 
 Date : 01/2024
-Temps pour la réalisation compléte : 5 heures
+Temps pour la réalisation compléte : 5 heures <br>
 Compétences : Gestion d'API; Authentification avec Token; JSON
 
 
